@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm 강현성</h1>
-<h1 align="center">Hi 👋, I'm 강현성</h1>
 <h3 align="center">개발자 지망생</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kang241202&label=Profile%20views&color=0e75b6&style=flat" alt="kang241202" /> </p>
